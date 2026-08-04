@@ -1,9 +1,12 @@
 ---
-title: Week 7
+title: Final Presentations
 ---
 
-Oct 5
-: TBD
+Dec 2
+: **Final Presentations**{: .label }
 
-Oct 7
-: TBD
+Dec 7
+: **Final Presentations**{: .label }
+
+Dec 9
+: **Final Presentations**{: .label } **Final Project Papers Due**{: .label .label-red }

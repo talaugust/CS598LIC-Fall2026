@@ -1,9 +1,12 @@
 ---
-title: Week 5
+title: Project Proposals
 ---
 
-Sep 21
-: TBD
+Oct 21
+: Project Proposals **Project Proposals Due**{: .label .label-red }
 
-Sep 23
-: TBD
+Oct 26
+: Project Proposals
+
+Oct 28
+: Project Proposals

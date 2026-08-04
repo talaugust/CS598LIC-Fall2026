@@ -1,9 +1,9 @@
 ---
-title: Week 8
+title: Finals
 ---
 
-Oct 12
-: TBD
+Dec 10
+: **Reading Day -- no classes, no final examinations**{: .label .label-red }
 
-Oct 14
-: TBD
+Dec 11 - Dec 17
+: **Final examination period (weekdays only)**{: .label .label-red }

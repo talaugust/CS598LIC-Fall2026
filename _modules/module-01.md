@@ -1,9 +1,6 @@
 ---
-title: Week 1
+title: Intro
 ---
 
 Aug 24
-: TBD
-
-Aug 26
-: TBD
+: Intro, Syllabus and FAQs

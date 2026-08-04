@@ -1,9 +1,9 @@
 ---
-title: Week 3
+title: Research Pitches
 ---
 
-Sep 7
-: **No Class -- Labor Day (all-campus holiday)**{: .label .label-red }
+Sep 21
+: Project Pitches **Project Pitches Due Before Class**{: .label .label-red }
 
-Sep 9
-: TBD
+Sep 23
+: Project Pitches
