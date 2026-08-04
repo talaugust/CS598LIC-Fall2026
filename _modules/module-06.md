@@ -27,4 +27,4 @@ Nov 25
 : **No Class -- Fall Break**{: .label .label-red }
 
 Nov 30
-: TBD
+: **Project Check-in**{: .label } Class dedicated to project work.
