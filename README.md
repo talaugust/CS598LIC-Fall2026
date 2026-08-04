@@ -13,8 +13,8 @@ A special topics course in human-computer interaction and natural language proce
 
 # Course Information
 
-**Time**: TBD, Monday/Wednesday \
-**Location**: TBD \
+**Time**: 09:30 - 10:45 am (CT), Monday/Wednesday \
+**Location**: 1304 SC \
 **Instructor**: Tal August \
 **TA**: TBD \
 **Office hours**: TBD \
