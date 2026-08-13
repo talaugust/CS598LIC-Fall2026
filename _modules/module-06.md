@@ -3,22 +3,22 @@ title: Communication
 ---
 
 Nov 2
-: TBD
+: **Grounding**{: .label } Herbert H. Clark and Susan E. Brennan. 1991. [Grounding in Communication]({{ site.baseurl }}/pdfs/clark-1991-grounding-in-communication.pdf). In Perspectives on Socially Shared Cognition. <br> Omar Shaikh, Hussein Mozannar, Gagan Bansal, Adam Fourney, and Eric Horvitz. 2025. [Navigating Rifts in Human-LLM Grounding: Study and Benchmark]({{ site.baseurl }}/pdfs/shaikh-2025-navigating-rifts.pdf). ACL 2025.
 
 Nov 4
-: TBD
+: **Computer Mediated Communication**{: .label } Justin Cheng, Michael Bernstein, Cristian Danescu-Niculescu-Mizil, and Jure Leskovec. 2017. [Anyone Can Become a Troll: Causes of Trolling Behavior in Online Discussions](https://drive.google.com/file/d/1QJorkBR76zAQ4lOTfOfsGT4sNnCmfbr4/view?usp=sharing). Proceedings of the 2017 ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW 2017). <br> Adam D. I. Kramer, Jamie E. Guillory, and Jeffrey T. Hancock. 2014. [Experimental evidence of massive-scale emotional contagion through social networks](https://drive.google.com/file/d/1hqlJouDGSoja0YTFlOREVUffG49VSFfx/view?usp=sharing). PNAS.
 
 Nov 9
-: TBD
+: **AI-Mediated Communication**{: .label } Jeffrey T Hancock, Mor Naaman, and Karen Levy. 2020. [AI-Mediated Communication: Definition, Research Agenda, and Ethical Considerations](https://drive.google.com/file/d/1zKdvsK15TZAcEIWqhBNVD98fAL-9ZirA/view?usp=sharing). Journal of Computer-Mediated Communication. <br> Jess Hohenstein, et al. 2023. [Artificial intelligence in communication impacts language and social relationships]({{ site.baseurl }}/pdfs/hohenstein-2023-ai-in-communication.pdf). Scientific Reports.
 
 Nov 11
-: TBD
+: **Simulations**{: .label } Joon Sung Park, Joseph C. O'Brien, Carrie J. Cai, Meredith Ringel Morris, Percy Liang, and Michael S. Bernstein. 2023. [Generative Agents: Interactive Simulacra of Human Behavior]({{ site.baseurl }}/pdfs/park-2023-generative-agents.pdf). In Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology (UIST '23). <br> Shivani Kapania, William Agnew, Motahhare Eslami, Hoda Heidari, and Sarah E Fox. 2025. [Simulacrum of Stories: Examining Large Language Models as Qualitative Research Participants]({{ site.baseurl }}/pdfs/kapania-2025-simulacrum-of-stories.pdf). In Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (CHI '25).
 
 Nov 16
-: TBD
+: **Social Agents**{: .label } Xuhui Zhou, et al. 2024. [SOTOPIA: Interactive Evaluation for Social Intelligence in Language Agents]({{ site.baseurl }}/pdfs/zhou-2023-sotopia.pdf). ICLR 2024. <br> Xinyi Mou, et al. 2025. [AgentSense: Benchmarking Social Intelligence of Language Agents through Interactive Scenarios]({{ site.baseurl }}/pdfs/mou-2025-agentsense.pdf). In Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL 2025).
 
 Nov 18
-: TBD
+: **Sycophancy**{: .label } Myra Cheng, Sunny Yu, Cinoo Lee, Pranav Khadpe, Lujain Ibrahim, and Dan Jurafsky. 2026. [ELEPHANT: Measuring and Understanding Social Sycophancy in LLMs]({{ site.baseurl }}/pdfs/cheng-2026-elephant-social-sycophancy.pdf). ICLR 2026. <br> Mrinank Sharma, et al. 2024. [Towards Understanding Sycophancy in Language Models]({{ site.baseurl }}/pdfs/sharma-2024-towards-understanding-sycophancy.pdf). ICLR 2024.
 
 Nov 23
 : **No Class -- Fall Break**{: .label .label-red }

@@ -44,6 +44,26 @@ There is no exam in this course.
     - Final talk: 10%
     - Final paper reporting your project and findings: 15%
 
+
+## Grade cutoffs 
+
+We will be using the following grade cutoffs in the class. There is no extra credit in the class, and all grades are final. If you are concerned about your grade, you can always reach out to course staff and get feedback on major  assignments like the final project prior to submission. 
+
+| Grade | Range |
+|:------|:------|
+| A     | 100% to 93.5% |
+| A-    | < 93.5% to 89.5% |
+| B+    | < 89.5% to 86.5% |
+| B     | < 86.5% to 83.5% |
+| B-    | < 83.5% to 79.5% |
+| C+    | < 79.5% to 76.5% |
+| C     | < 76.5% to 73.5% |
+| C-    | < 73.5% to 69.5% |
+| D+    | < 69.5% to 66.5% |
+| D     | < 66.5% to 63.5% |
+| D-    | < 63.5% to 60.5% |
+| F     | < 60.5% to 0% |
+
 ## Texts
 Assigned readings will be linked in the class schedule. There are no required texts. More details about the assignments are in the [Assignments](/assignments.md) section.
 
