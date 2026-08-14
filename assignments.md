@@ -38,17 +38,12 @@ Reading reactions will be graded on a 2 point scale and mostly focused on comple
 Each week, a group of students will lead the class in a ~1 hour discussion of the assigned papers for that week. You are expected to sign up to be a discussion lead once during the semester. Your responsibilities for a discussion lead are:
 
 - Read and understand the assigned papers that week along with any supporting material that you think would provide helpful background. Please also read the optional readings for that day, if any.
-- Present a 10-12 minute talk on the papers. Summarize the papers’ key ideas, research questions, methodology, and findings.
-- Lead a class activity based on the papers, followed by a discussion about the activity.
-To keep the discussion going you should prepare 8-10 discussion questions about the papers. These should be creative questions that do not have easy answers. The questions should be the result of your attempts to understand the material, its implications, and its connections with other work. 
-- Double-check with the instructor **at least 24 hours before class** regarding your proposed group activity and the contents of your slides. This does not need to include your responses to reading responses. We will be able to provide feedback if you send us the materials the day before class.
+- Present a 10 minute talk on the papers. Summarize the papers’ key ideas, research questions, methodology, and findings.
+- Lead a 20 minute class activity based on the papers. Activities are meant to be engaging, group-based ways to act on or otherwise play with the themes introduced in the papers. Past successful activities have included classmates sketching with pen and paper, tournaments of effective prompting, and all-class debates. 
+- Lead a 20 minute class discussion about the activity and papers. To keep the discussion going you should prepare 5-6 discussion questions about the papers. These should be creative questions that do not have easy answers. The questions should be the result of your attempts to understand the material, its implications, and its connections with other work. 
+- Double-check with the instructor **at least 24 hours before class** regarding your proposed group activity and the contents of your slides. This does not need to include your responses to reading responses. We will be able to provide feedback if you send us the materials the day before class. The most successful activities and discussions have checked in more than a day in advance and have iterated over multiple rounds of feedback with me. 
 - Some days we will have in-class assignments (see more details below) meant to guide the class through ideas from the papers. If you sign up for a day where we have such an assignment, instead of preparing an activity in advance, you will instead complete the assignment in advance (should take no more than 30 minutes), share your completed assignment with the instructor **at least 24 hours before class** and be prepared to help classmates with the assignment during class.  
 
-Below are ideas for group activities and general questions from past classes. Here are some group activities that worked well in prior classes:
-- Role-playing activities: have students within groups analyze the same problem/question by assuming different roles as stakeholders: e.g., writers, news reporters, artists, patients or caregivers, moderators, developers, researchers, policy makers.
-- Design activities: have students come up with new design ideas for additions/modifications to a tool or solution. How do we redesign existing applications, or design completely new ones, to implement ideas or address certain key challenges identified in the paper?
-- Extending current research: have students collectively brainstorm how they would extend or modify the paper, and why. In addition, consider discussing the strengths and weaknesses of the current paper’s approach, and their favorite parts in the paper.
-- Class surveys based on the paper (e.g., google forms): This has served as a great way to understand overall patterns and variations in class opinions regarding design and challenges in intelligent communication technologies.
 
 ## Tips
 Break students up into small groups (3-4 people max)
@@ -57,15 +52,10 @@ Introduce hypothetical or real-world examples (e.g. products or recent events) t
 Tie your questions to research that you or other folk may be conducting.
 Keep a timer.
 
-## Contribution statement 
-
-We expect both discussion leads to participate equally in the presentation, activity, and project. To help ensure equal participation. Each discussion lead should include 1-2 sentences documenting their specific contribution to preparing and leading the class discussion. 
-
   
-
 ## In-class assignments
 
-There will be 2-3 assignments in class meant to actualize the findings or ideas from the readings. Completeing these assignments will be part of your particiption grade. These will predominalty be structured coding assignments where you are provided with some initial code that you will fill in to achieve some result. These assignments will be shared during class. We do not expect you to have any preparation for the assignments, and they will mostly be graded on completeness and effort over correctness. If you would like the assignments in advance please let the instructor know. If you are sick or absent the day of a class assignment, you can complete the assignment up to **two weeks after the class** and send it to the course staff. 
+There will be 3 assignments in class meant to actualize the findings or ideas from the readings. Completing these assignments will be part of your particiption grade. These will predominalty be structured coding assignments where you are provided with some initial code that you will fill in to achieve some result. These assignments will be shared during class. We do not expect you to have any preparation for the assignments, and they will mostly be graded on completeness and effort over correctness. If you would like the assignments in advance please let the instructor know. If you are sick or absent the day of a class assignment, you can complete the assignment up to **two weeks after the class** and send it to the course staff. 
 
 
 # Class attendance 
@@ -88,7 +78,7 @@ Pick and develop a research idea or question that interests you, develop your ow
 Use the research pitch session to get early feedback from the instructor and your peers on topic selection and potential resources for literature survey. Make sure to include research questions (RQs), why the problem is important (why), and how you plan to solve it in each research pitch (how). There are some great resources online on how to approach research and selecting what problems to work on (or not): 
 
 - Read [this section](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit?fbclid=IwAR3xKxG5ZnYWARZf7UM0mfPBrVboCJFO1zFnYyRM0a1r3crpwgHiQodk2Z4#heading=h.nqqjfn2gi57d) on “Selecting Problems” on Page 6 in the "Syllabus for Eric’s PhD students".
-- First two sections of [Daniel Fried's lecture on conducting NLP research](https://cmu-anlp.github.io/assets/slides/anlp-10-experimentation.pdf)
+- [Daniel Fried's lecture on conducting NLP research](https://cmu-anlp.github.io/assets/slides/anlp-10-experimentation.pdf)
 - Two more sets of suggestions from other fields: 
     - [Four Mechanisms for Finding (and Being Found by) Research Problems](https://sociologica.unibo.it/article/view/8342) 
     - [Four golden lessons](https://www.nature.com/articles/426389a)
@@ -139,12 +129,12 @@ The proposal will include a written document (the project proposal report, cover
 We will be using the [ACL paper format](https://github.com/acl-org/acl-style-files) for both the project proposal and final report. 
 Your project proposal report will be a first draft of your final paper that you will continue to fill in over the course of the semester. The project proposal report should reflect what you presented in the proposal presentation. It should include an introduction, related work, proposed study design and methodologies, timeline, distribution of work among students, and expected project outcomes and contributions. For the project proposal, try to keep the PDF to under 7 pages. 
 
-Note: A single-paragraph collaboration plan will be required in each student's project proposal to receive full credit. Eventually, a single-paragraph contribution statement summarizing each group member’s contribution to the project will be required in each student’s final paper.
+<!-- Note: A single-paragraph collaboration plan will be required in each student's project proposal to receive full credit. Eventually, a single-paragraph contribution statement summarizing each group member’s contribution to the project will be required in each student’s final paper. -->
 
-### What do you need to provide in the collaboration plan?
+<!-- ### What do you need to provide in the collaboration plan?
 Each group member should include a single paragraph (ideally at the end of their proposal) documenting their group's plan to complete the project collaboratively and specifically highlight their specific role as a collaborator. In other words, what is/will be your contribution to the group's successful completion of the 1, project and 2, proposal document + final paper.
 
-Think of this as an informal contract among group members.
+Think of this as an informal contract among group members. -->
 
 
 
@@ -170,7 +160,7 @@ You will also present your project in a final talk. The talk should be a total o
 
 
 
-### What do you need to provide in the contribution statement?
-Each group member should include a single paragraph (ideally at the end of their final paper) documenting their specific contribution to the group's successful completion of the: 1, project, and 2, proposal document + final paper. Include details from each stage of the project: ideation, formulation, execution, presentation.
+## Contribution statement for group work
 
-I will be asking all group members to individually provide member evaluations to me along with individual contribution statements in the final papers, and allocating points based on satisfactory participation in group projects.
+For all group work (all project assignments and the class lead) we expect group memmbers to participate equally. To help ensure equal participation. Each group member should submit **separately** 2-3 sentences documenting their specific contribution to the assignment. I will also be asking all group members to individually provide member evaluations to me along with individual contribution statements in the final papers, and allocating points based on satisfactory participation in group projects. **Contribution statements will be used by course staff to assess division of work in a group. If course staff perceive an imbalance, we will reach out to all relevant group memebers and reserve the right to lower individual grades.** 
+
