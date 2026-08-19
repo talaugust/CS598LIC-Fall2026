@@ -25,8 +25,8 @@ A special topics course in human-computer interaction and natural language proce
 # Useful Links
 <!-- - [Request a meeting from course staff](#)  -->
 - Course [Canvas](#) page 
-- Discussion Lead [signup sheet](#)
-- Project presentation [signups](#)
+- Discussion Lead [signup sheet](https://docs.google.com/spreadsheets/d/1tUTlmWcV1PkKTi9TnaN8e8mK5dw9C3WW2JlL4Alxqx0/edit?usp=sharing)
+<!-- - Project presentation [signups](#) -->
 <!-- - Final Project Talk [signups](#) -->
 
 # Acknowledgements 
