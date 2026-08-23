@@ -2,6 +2,42 @@
 .module {
   @extend %card;
 
+  // Reading-day topic headings. Rendered as a plain bold line above the
+  // citations rather than a pill, so they read as section headers and stay
+  // visually distinct from the blue/red badges used for lectures, project
+  // milestones and deadlines.
+  // Inline-block (not block) so a badge such as "Lecture" can sit to the
+  // right of the heading; the following citations are pushed onto their own
+  // line by the line break after any trailing badges (see below).
+  .topic {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    background: none;
+    border: none;
+    border-radius: 0;
+    color: inherit;
+    font-size: inherit;
+    font-weight: 700;
+    text-transform: none;
+    letter-spacing: normal;
+  }
+
+  // Break the line after the topic heading and any badges sitting beside it,
+  // so citations start on their own line. The heading row is wrapped in
+  // `.topic-row` on days where a badge follows the topic; otherwise the
+  // topic breaks on its own.
+  .topic-row {
+    display: block;
+    margin-bottom: $sp-1;
+  }
+
+  .topic:not(.topic-row .topic)::after {
+    content: "";
+    display: block;
+    margin-bottom: $sp-1;
+  }
+
   h1,
   h2,
   h3,

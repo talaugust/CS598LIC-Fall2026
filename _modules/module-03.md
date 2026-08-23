@@ -2,8 +2,8 @@
 title: Research Pitches
 ---
 
-Sep 23
+Sep 16
 : **Project Pitches**{: .label } **Project Pitches Due Before Class**{: .label .label-red }
 
-Sep 28
+Sep 21
 : **Project Pitches**{: .label }
