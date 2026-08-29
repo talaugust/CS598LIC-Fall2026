@@ -21,4 +21,4 @@ Oct 19
 : **Project Check-in**{: .label } Class dedicated to project work.
 
 Oct 21
-: **Gen UI**{: .topic } Yaniv Leviathan, et al. 2026. [Generative UI: LLMs are Effective UI Generators](https://drive.google.com/file/d/1DwCwpeaRTky2zsXm3B6TDUZ0Urc9n6E0/view?usp=sharing). Arxiv. <br> Krzysztof Gajos and Daniel S. Weld. 2004. [SUPPLE: Automatically Generating User Interfaces](https://drive.google.com/file/d/1HhqMPqgbJbolVasWKnHirEqySNSaXKpi/view?usp=sharing). In Proceedings of the 9th International Conference on Intelligent User Interfaces (IUI '04).
+: <span class="topic-row">**Gen UI**{: .topic } **In-class Assignment**{: .label }</span> Yaniv Leviathan, et al. 2026. [Generative UI: LLMs are Effective UI Generators](https://drive.google.com/file/d/1DwCwpeaRTky2zsXm3B6TDUZ0Urc9n6E0/view?usp=sharing). Arxiv. <br> Krzysztof Gajos and Daniel S. Weld. 2004. [SUPPLE: Automatically Generating User Interfaces](https://drive.google.com/file/d/1HhqMPqgbJbolVasWKnHirEqySNSaXKpi/view?usp=sharing). In Proceedings of the 9th International Conference on Intelligent User Interfaces (IUI '04).
