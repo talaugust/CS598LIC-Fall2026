@@ -16,9 +16,9 @@ A special topics course in human-computer interaction and natural language proce
 **Time**: 09:30 - 10:45 am (CT), Monday/Wednesday \
 **Location**: 1304 SC \
 **Instructor**: Tal August \
-**TA**: TBD \
-**Office hours**: TBD \
-**Email**: taugust@illinois.edu
+**TA**: Yijun Liu \
+**Office hours**: Friday 3-4pm, SC 4227 or by appointment \
+**Email**: taugust@illinois.edu, yijun6@illinois.edu
 
 
 
