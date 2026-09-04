@@ -3,7 +3,7 @@ title: Languages
 ---
 
 Aug 26
-: <span class="topic-row">**Sociolinguistic Style**{: .topic } **Lecture**{: .label }</span> Bell A. 1984. [Language style as audience design](https://drive.google.com/file/d/1foMgB_LszIMby_3GY9mJQZ_czpNKfln1/view?usp=sharing). Language in Society. **ONLY Sections 1 and 3.** <br> Giles, H., & Ogay, T. (2007). [Communication Accommodation Theory](https://drive.google.com/file/d/1XMkA0HpUF5xgWnknVAljSLTgBkgkuQHa/view?usp=sharing)
+: [Slides](https://docs.google.com/presentation/d/1v-AH8Z6sXC1k4GKKrF7b7ZxowAaFm3kK50iEA1WpdVM/edit?usp=sharing){: .slides } <span class="topic-row">**Sociolinguistic Style**{: .topic } **Lecture**{: .label }</span> Bell A. 1984. [Language style as audience design](https://drive.google.com/file/d/1foMgB_LszIMby_3GY9mJQZ_czpNKfln1/view?usp=sharing). Language in Society. **ONLY Sections 1 and 3.** <br> Giles, H., & Ogay, T. (2007). [Communication Accommodation Theory](https://drive.google.com/file/d/1XMkA0HpUF5xgWnknVAljSLTgBkgkuQHa/view?usp=sharing)
 
 Aug 31
 : [Slides](https://docs.google.com/presentation/d/101M7eDGSaQQeJiGTx4edGf7pRsjEKM_Xm36F2YpBwv8/edit?usp=sharing){: .slides } **Interactive Text**{: .topic } Jim Hollan and Scott Stornetta. 1992. [Beyond being there](https://drive.google.com/file/d/10kXixYFOv7aaBs5Cfk1odfIVqoZbJuZc/view?usp=sharing). In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '92). <br> Hohman, Fred & Conlen, Matthew & Heer, Jeffrey & Chau, Polo. 2020. [Communicating with Interactive Articles](https://distill.pub/2020/communicating-with-interactive-articles/). Distill.
