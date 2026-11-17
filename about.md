@@ -64,6 +64,10 @@ We will be using the following grade cutoffs in the class. There is no extra cre
 | D-    | < 63.5% to 60.5% |
 | F     | < 60.5% to 0% |
 
+## Late Policy
+
+Any assignment submitted past the due date will have 5% of the total grade deducted per day that it is late, for a maximum deduction of 50%. Any late assignment that is not turned in by the last day of class (Dec 9th) will receive a 0% unless an extension was agreed upon with me prior to the last day of class
+
 ## Texts
 Assigned readings will be linked in the class schedule. There are no required texts. More details about the assignments are in the [Assignments](/assignments.md) section.
 
